@@ -1,8 +1,6 @@
 // Problem 2
 
-let firstNum = 1;
-let secondNum = 1;
-let total = 0;
+
 
 
 function sumEvenFibArray() {
@@ -21,7 +19,11 @@ function createEvenFibArray() {
 }
 
 function createFibArray() {
+    let firstNum = 1;
+    let secondNum = 1;
+    let total = 0;
     let fibArray = [];
+    
     fibArray.push(firstNum);
     while(true) {
         total = firstNum + secondNum;
