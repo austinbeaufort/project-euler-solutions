@@ -23,3 +23,5 @@ function getPrimeFactors(number) {
 }
 
 console.log(findLargestPrimeFactor());
+
+console.log(getPrimeFactors(145));

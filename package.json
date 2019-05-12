@@ -1,0 +1,23 @@
+{
+  "name": "project-euler-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinbeaufort/project-euler-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinbeaufort/project-euler-solutions/issues"
+  },
+  "homepage": "https://github.com/austinbeaufort/project-euler-solutions#readme",
+  "dependencies": {
+    "home-on-the-range": "^1.1.2"
+  }
+}
