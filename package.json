@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/austinbeaufort/project-euler-solutions#readme",
   "dependencies": {
-    "home-on-the-range": "^1.1.2"
+    "home-on-the-range": "^1.1.2",
+    "string-of-pearls": "^1.1.3"
   }
 }

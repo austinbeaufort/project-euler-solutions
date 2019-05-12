@@ -18,7 +18,6 @@ function findNthPrime(number) {
         }
     }
     return primeArray;
-
 }
 
 console.log(findNthPrime(10001));
